@@ -11,7 +11,7 @@
 [https//ScriptHammer.com  
 ![https//ScriptHammer.com][logo]](https//ScriptHammer.com 'https//ScriptHammer.com')
 
-[logo]: version/public/ScriptHammer.gif 'https//ScriptHammer.com'
+[logo]: public/ScriptHammer.gif 'https//ScriptHammer.com'
 
 ```javascript
 npx create-react-app@3.4.1 version --use-npm
@@ -37,9 +37,9 @@ npm run deploy
 [GitHub Pages Deploy & Domain: TraversyMedia  
 ![https//ScriptHammer.com][traversypages]](https://youtu.be/SKXkC4SqtRk')
 
-[traversypages]: version/public/traversyPages.png 'GitHub Pages Deploy & Domain'
+[traversypages]: public/traversyPages.png 'GitHub Pages Deploy & Domain'
 
 [https//ScriptHammer.com  
 ![https//ScriptHammer.com][logo]](https//ScriptHammer.com 'https//ScriptHammer.com')
 
-[logo]: version/public/ScriptHammer.gif 'https//ScriptHammer.com'
+[logo]: public/ScriptHammer.gif 'https//ScriptHammer.com'
